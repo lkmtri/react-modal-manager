@@ -1,5 +1,5 @@
 {
-  "name": "react-modal-manager",
+  "name": "@suinegmai/react-modal-manager",
   "version": "0.0.1",
   "description": "Simplified modal management in React",
   "main": "./dist/react-modal-manager.js",
@@ -9,5 +9,16 @@
   "dependencies": {
     "@suinegmai/js-events": "^1.0.0",
     "uuid": "^3.3.2"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkmtri/react-modal-manager.git"
+  },
+  "author": "lkmtri",
+  "bugs": {
+    "url": "https://github.com/lkmtri/react-modal-manager/issues"
+  },
+  "homepage": "https://github.com/lkmtri/react-modal-manager#readme"
 }
