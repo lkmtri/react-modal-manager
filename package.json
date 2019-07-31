@@ -2,7 +2,8 @@
   "name": "react-modal-manager",
   "version": "0.0.1",
   "description": "Simplified modal management in React",
-  "main": "index.js",
+  "main": "./dist/react-modal-manager.js",
+  "module": "./dist/react-modal-manager.esm.js",
   "license": "MIT",
   "private": false,
   "dependencies": {
