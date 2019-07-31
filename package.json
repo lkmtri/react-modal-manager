@@ -1,0 +1,12 @@
+{
+  "name": "react-modal-manager",
+  "version": "0.0.1",
+  "description": "Simplified modal management in React",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@suinegmai/js-events": "^1.0.0",
+    "uuid": "^3.3.2"
+  }
+}
